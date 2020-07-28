@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="2e8d4285-be64-4e39-9492-154ec6f2064c" name="End2End Automation" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="2e8d4285-be64-4e39-9492-154ec6f2064cfileName">End2End-Automation</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

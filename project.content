@@ -1,0 +1,8 @@
+CreateUser\Users.xml
+GetUserByParam\Byparam.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com-2\Secondaryuser.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com-3\Byheader.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com-4\Secondaryuser.xml
+End2End-Automation\CreatePrimaryCustomer.xml
+End2End-Automation\GetPrimaryCustomer.xml
+End2End-Automation\DeletePrimaryUser.xml
